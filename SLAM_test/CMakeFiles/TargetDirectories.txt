@@ -1,0 +1,7 @@
+/home/jinbiao/SLAM_test/SLAM_test/CMakeFiles/install.dir
+/home/jinbiao/SLAM_test/SLAM_test/CMakeFiles/list_install_components.dir
+/home/jinbiao/SLAM_test/SLAM_test/CMakeFiles/rebuild_cache.dir
+/home/jinbiao/SLAM_test/SLAM_test/CMakeFiles/slam_test.dir
+/home/jinbiao/SLAM_test/SLAM_test/CMakeFiles/edit_cache.dir
+/home/jinbiao/SLAM_test/SLAM_test/CMakeFiles/install/strip.dir
+/home/jinbiao/SLAM_test/SLAM_test/CMakeFiles/install/local.dir
