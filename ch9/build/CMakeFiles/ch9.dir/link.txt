@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/ch9.dir/main.cpp.o  -o ch9 -rdynamic 
